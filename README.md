@@ -1,8 +1,8 @@
-# owf-data-co-water-education-orgs #
+# owf-data-co-environment-orgs #
 
 This repository contains the [Open Water Foundation (OWF)](https://openwaterfoundation.org)
-dataset files for Colorado water education organizations.
-The initial focus is education organizations in the Poudre Basin,
+dataset files for Colorado environmental organizations.
+The initial focus is environmental organizations in the Poudre Basin,
 which includes some statewide organizations.
 
 This repository contains the original data in an Excel file
@@ -30,7 +30,7 @@ C:\Users\user/                              Windows user files.
       git-repos/
 ---------------- above folders are recommended --------------------
         owf-website-data/                   Repository that provides shared files to create dataset cloud landing page.
-        owf-data-co-water-education-orgs/   This repository.
+        owf-data-co-environment-orgs/       This repository.
           .gitattributes                    Git configuration file indicate repository configuration,
                                             in particular handling of line-ending and binary files.
           .gitignore                        Git configuration file to ignore files that should not be committed to the repository.
@@ -44,7 +44,7 @@ C:\Users\user/                              Windows user files.
 The GeoJSON file in the `data` folder can be used directly by GIS and web mapping applications.
 
 However, it is recommended to use the files served from the
-[Colorado Water Education Organizations](https://data.openwaterfoundation.org/state/co/owf/water-education-orgs/) dataset links.
+[Colorado Environmental Organizations](https://data.openwaterfoundation.org/state/co/owf/environment-orgs/) dataset links.
 
 ## License ##
 
