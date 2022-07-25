@@ -16,7 +16,7 @@ The following files can be downloaded or used directly.
 
 ## Workflow ##
 
-See the [`owf-data-co-education-orgs`](https://github.com/OpenWaterFoundation/owf-data-co-environment-orgs)
+See the [`owf-data-co-environment-orgs`](https://github.com/OpenWaterFoundation/owf-data-co-environment-orgs)
 GitHub repository for information.
 
 ## Update Frequency and Versions ##
