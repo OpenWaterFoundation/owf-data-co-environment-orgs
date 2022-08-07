@@ -10,9 +10,9 @@ This may change in the future as additional basins are added to the dataset.
 
 The following files can be downloaded or used directly.
 
-| **Layer File** | **Description** |
-| -- | -- |
-| [`co-environment-orgs.geojson`](co-environment-orgs.geojson) | Colorado environment organizations. |
+| **Layer File** | **Description** | **View** |
+| -- | -- | -- |
+| [`co-environment-orgs.geojson`](co-environment-orgs.geojson) | Colorado environment organizations. | [View](https://gavinr.github.io/geojson-viewer/?url=https://data.openwaterfoundation.org/state/co/owf/environment-orgs/co-environment-orgs.geojson) |
 
 ## Workflow ##
 
